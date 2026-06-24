@@ -2,6 +2,6 @@
 Mentor's seminar. Pet-project with backend and frontend.
 
 # Как запустить сервис (локально)
-1) C:\\..\TimeSeriesAnalysis -> pip install -r requirements.txt
+1) C:\\<your_path_to_project>\TimeSeriesAnalysis -> pip install -r requirements.txt
 2) Terminal 1: cd ..\TimeSeriesAnalysis\backend -> uvicorn main:app --reload
 3) Terminal 2: cd ..\TimeSeriesAnalysis\frontend -> streamlit run app.py
