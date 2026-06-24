@@ -17,3 +17,7 @@
 1) Установить зависимости в терминале в пути C:\\<your_path_to_project>\TimeSeriesAnalysis: pip install -r requirements.txt
 2) Запустить backend-часть в первом терминале: cd ..\TimeSeriesAnalysis\backend -> uvicorn main:app --reload
 3) Запустить frontend-часть во втором терминале: cd ..\TimeSeriesAnalysis\frontend -> streamlit run app.py
+
+# Примечание
+* Файлы проекта находятся в ветке master
+* Сам проект планирую использовать как базовый шаблон для разработки дальнейших проектов
